@@ -1,0 +1,7 @@
+[25-Mar-2023 11:09:11 Africa/Nairobi] PHP Warning:  Attempt to read property "access_token" on null in /home/jreylibr/public_html/stk-push/daraja/stk_initiate.php on line 55
+[25-Mar-2023 11:10:41 Africa/Nairobi] PHP Warning:  Attempt to read property "access_token" on null in /home/jreylibr/public_html/stk-push/daraja/stk_initiate.php on line 55
+[25-Mar-2023 11:32:45 Africa/Nairobi] PHP Warning:  Attempt to read property "access_token" on null in /home/jreylibr/public_html/stk-push/daraja/stk_initiate.php on line 55
+[25-Mar-2023 12:18:30 Africa/Nairobi] PHP Warning:  Attempt to read property "access_token" on null in /home/jreylibr/public_html/stk-push/daraja/stk_initiate.php on line 55
+[25-Mar-2023 12:29:48 Africa/Nairobi] PHP Warning:  Attempt to read property "access_token" on null in /home/jreylibr/public_html/stk-push/daraja/stk_initiate.php on line 55
+[25-Mar-2023 12:34:25 Africa/Nairobi] PHP Warning:  Attempt to read property "access_token" on null in /home/jreylibr/public_html/stk-push/daraja/stk_initiate.php on line 56
+[25-Mar-2023 12:34:25 Africa/Nairobi] PHP Warning:  Undefined variable $CallBackURL in /home/jreylibr/public_html/stk-push/daraja/stk_initiate.php on line 77
